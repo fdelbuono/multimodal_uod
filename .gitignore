@@ -1,0 +1,8 @@
+dataset/
+results/
+SuperGluePretrainedNetwork/
+notebooks/
+*.txt
+__pycache__/
+calibration/calibration_results_croatia
+calibration/calibration_results_frames
